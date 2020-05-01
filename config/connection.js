@@ -6,7 +6,7 @@ var connection = mysql.createConnection({
   port: 3308,
   user: "root",
   password: "K!rby0414",
-  database: "cat_db"
+  database: "burger_db"
 });
 
 // Make connection.
